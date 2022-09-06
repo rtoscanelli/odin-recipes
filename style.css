@@ -1,0 +1,18 @@
+h1 {
+    font-family: monospace, sans-serif;
+    font-size: 50px;
+    color: lightcoral;
+}
+
+li, 
+a {
+    color: lightblue;
+}
+
+a {
+    font-size: 25px;
+}
+
+body {
+    background-color: black;
+}
