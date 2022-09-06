@@ -1,18 +1,21 @@
+body {
+    background-color: rgb(254, 247, 107);
+}
+
 h1 {
     font-family: monospace, sans-serif;
     font-size: 50px;
-    color: lightcoral;
+    background-color: rgb(255, 96, 96);
+    color: white;
 }
 
 li, 
 a {
-    color: lightblue;
+    font-family: monospace, sans-serif;
+    color: black;
 }
 
 a {
     font-size: 25px;
 }
 
-body {
-    background-color: black;
-}
