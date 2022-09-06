@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(254, 247, 107);
+}
+
+h1, h2 {
+    font-family: monospace, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: rgb(255, 96, 96);
+    color: white;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
